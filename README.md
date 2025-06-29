@@ -73,9 +73,9 @@ The app will open in your browser at `http://localhost:8501`
 
 🧪 Sample Inputs
 ---
-*🧠 Auto-Fill Parkinson’s Positive**: Populates form with voice features from a diagnosed case
+*🧠 **Auto-Fill Parkinson’s Positive**: Populates form with voice features from a diagnosed case
 *💪 Auto-Fill No Parkinson’s**: Populates form with healthy voice data
-These buttons are available in the "Single Patient Prediction" mode for quick testing
+These buttons are available in the "Single Patient Prediction" mode for quick testing**
 ---
 ---
 📄 Output PDF Report
